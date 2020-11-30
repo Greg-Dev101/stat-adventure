@@ -54,5 +54,3 @@ alert (
 else {
     console.log ("aucun nombre saisi")
 }
-
-// Ajout pour test git
